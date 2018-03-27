@@ -1,3 +1,5 @@
+![](header.png)
+
 ## :question: About
 My solutions to [HackerRank](https://www.hackingwithswift.com/store/swift-coding-challenges) challenges
 
