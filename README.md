@@ -1,7 +1,7 @@
 ![](header.png)
 
 ## :question: About
-My solutions to [HackerRank](https://www.hackingwithswift.com/store/swift-coding-challenges) challenges
+My solutions to [HackerRank](www.hackerrank.com) challenges
 
 ## :blue_book: Challenges Checklist
 ### Java
